@@ -1,0 +1,1 @@
+This is a practice repo for learning Golang on Windows.
